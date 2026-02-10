@@ -1,6 +1,6 @@
 # IMGD-5010-Assignment3
 ## The original code
-![P5.js Code](https://editor.p5js.org/YidiLiu1216/sketches/Q4T88_eBX)
+[P5.js Code](https://editor.p5js.org/YidiLiu1216/sketches/Q4T88_eBX)
 
 ## Formal Element
 I want to explore more about text elements because I feel they have strong feeling and can form different shapes by changing size and position.
