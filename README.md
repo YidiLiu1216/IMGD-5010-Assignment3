@@ -1,7 +1,7 @@
 # IMGD-5010-Assignment3
 ## The original code
 [P5.js Code](https://editor.p5js.org/YidiLiu1216/sketches/Q4T88_eBX)
-
+The code in this repo is at [This position](https://github.com/YidiLiu1216/IMGD-5010-Assignment3/blob/main/DownloadedFile/sketch.js)
 ## Formal Element
 I want to explore more about text elements because I feel they have strong feeling and can form different shapes by changing size and position.
 When I think about what to create, I notice that although we only use one kind of element, the negative space is still existing and can create a strong feeling of space. Therefore, I want to make sounds related to the creation of new negative space in the image.
